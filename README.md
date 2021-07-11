@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [N2JS](https://www.n2js.com/), a platform for learning and teaching coding skills with JavaScript:
+
+* The N2JS **Essential JavaScript** course is FREE, offering over 100 lessons to help people learn to code from the very beginning.
+* Anyone can take this course to learn programming skills at their own pace.
+* Skills are tested with *katas*, or code challenges. N2JS runs tests on your solution to see if you passed the challenge.
+
+Try it out, and feel free to use N2JS to teach JavaScript to someone you know!
+
 <!--
 **AaronSmithX/AaronSmithX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
